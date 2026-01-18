@@ -68,7 +68,7 @@ export default function ContactPage() {
             <div className="rounded-xl border p-6">
               <p className="text-sm font-medium text-gray-500">CV</p>
               <a
-                href="/cv.pdf"
+                href="/BignozaEphraim_MBELOU_CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-2 block font-medium underline"
